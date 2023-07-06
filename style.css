@@ -26,8 +26,8 @@
 
 }
 
-.footer{
+.footerb{
     display: flex;
-    /* justify-content: space-around; */
-    justify-content:center;
+    justify-content:space-around;
+    /* justify-content:center; */
 }
